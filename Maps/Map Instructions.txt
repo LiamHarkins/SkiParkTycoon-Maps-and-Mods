@@ -1,0 +1,7 @@
+Two types of maps in this folder. Custom, Included.
+
+Custom maps are maps that are made by any user and then imported into the game. Included maps are maps that are already in the game and the downloaded file is a .ski file that adds in new objectives or adds in the ski resort made by the creator of the file.
+
+Custom maps are installed by copying all the files and pasting them into "C:\Program Files (x86)\Steam\SteamApps\common\Ski Park Tycoon\addons". Included maps are installed by going to "C:\Program Files (x86)\Steam\SteamApps\common\Ski Park Tycoon\save\Options.ini" and adding in EngineEdit=1 under EngineEdgeScroll=1. Then, you paste in the .ski file into the save folder which is where Options is located. Go into the game, then sandbox, then click on the map that the .ski file is on, and then pick either unlimited or regular. Once the map is loaded, click the Edit button and load game. Locate the .ski file you want and open it and it will load up in your game
+
+Some maps may require a mod download which you can find in the ReadMe of each map folder. The mod will be included in the Mods section of this repository.
